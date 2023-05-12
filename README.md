@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Raja-ind
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Raja-Babu
+- 👀 I’m interested in Coding and Reading.
+- 🌱 I’m currently doing BCA from MMDU MULLANA AMBALA, HARYANA.
+- 💞️ I’m looking to collaborate on my Online Work.
+- 📫 How you can reach me.- rcfin22@gmail.com
 
 <!---
 Raja-ind/Raja-ind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
